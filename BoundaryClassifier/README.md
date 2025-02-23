@@ -26,7 +26,6 @@ Alternatively, you can think of the problem as detecting if a point is inside on
 3. **Visualization and Analysis**
    - Visualize the classifier’s performance on an independent test set.
    - Plot the decision regions and overlay the true class boundaries.
-   - Discuss any discrepancies or interesting observations in classification performance when varying the dataset size.
 
 ---
 
