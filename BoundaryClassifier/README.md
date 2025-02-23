@@ -1,7 +1,5 @@
 # Parametric Gaussian Classifier
 
----
-
 ## Assignment Overview
 
 ### Problem Statement
