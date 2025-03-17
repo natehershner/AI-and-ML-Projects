@@ -1,7 +1,4 @@
-#Supervised and Unsupervised Learning
-
-## Overview
-This project is divided into two parts:
+## Supervised and Unsupervised Learning
 
 ### Part 1 - Supervised Learning
 We predict a target variable `z` from two inputs `x` and `y`. Given the 50 noisy samples and the nonlinear relationship, we chose a **polynomial regression** model with **Ridge regularization**:
