@@ -1,4 +1,4 @@
-# Homework 2: Supervised and Unsupervised Learning
+#Supervised and Unsupervised Learning
 
 ## Overview
 This project is divided into two parts:
