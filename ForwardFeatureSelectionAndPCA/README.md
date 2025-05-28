@@ -1,6 +1,6 @@
 Optdigits Analysis and Feature Selection
 
-This repository contains an assignment that highlights several machine learning techniques applied to the [optdigits dataset](https://www.openml.org/d/41082). The focus is on feature selection, dimensionality reduction, and visualization, making it a comprehensive study in applied AI/ML.
+
 
 ## Overview
 
